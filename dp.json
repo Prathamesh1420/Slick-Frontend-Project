@@ -1,0 +1,60 @@
+{
+  "Product": [
+    {
+      "Video": "Summary",
+      "TaggedTo": "Product",
+      "TaggedEntities": "22 Jan 2023",
+      "VideoTags": "Active",
+      "Flows": "Customer data",
+      "Status": "Active"
+    },
+    {
+      "Video": "Summary",
+      "TaggedTo": "Product",
+      "TaggedEntities": "22 Jan 2023",
+      "VideoTags": "Active",
+      "Flows": "Customer data",
+      "Status": "Inactive"
+    },
+    {
+      "Video": "Summary",
+      "TaggedTo": "Product",
+      "TaggedEntities": "22 Jan 2023",
+      "VideoTags": "Active",
+      "Flows": "Customer data",
+      "Status": "Draft"
+    }
+  ],
+  "Collection": [
+    {
+      "Video": "Summary",
+      "TaggedTo": "Collection",
+      "TaggedEntities": "22 Jan 2023",
+      "VideoTags": "Active",
+      "Flows": "Customer data",
+      "Status": "Active"
+    },
+    {
+      "Video": "Summary",
+      "TaggedTo": "Collection",
+      "TaggedEntities": "22 Jan 2023",
+      "VideoTags": "Active",
+      "Flows": "Customer data",
+      "Status": "Inactive"
+    },
+    {
+      "Video": "Summary",
+      "TaggedTo": "Collection",
+      "TaggedEntities": "22 Jan 2023",
+      "VideoTags": "Active",
+      "Flows": "Customer data",
+      "Status": "Draft"
+    }
+  ],
+  "Collection_Product": [],
+  "Video_Tags": [],
+  "Product_Tags": [],
+  "Product_Group_Tags": [],
+  "Collection_Tags": [],
+  "None": []
+}

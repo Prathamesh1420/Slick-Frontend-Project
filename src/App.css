@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+#FilterLabel{
+  margin-right: 15px;
+  font-size: large;
+}
+
+#Options{
+  padding: 2px;
+  border-radius: 4px;
+  font-size: 15px;
+  width: 180px;
+}
+
+.table-container{
+  margin-top: 40px;
+}
+
+#table{
+  /* border: 2px solid gray; */
+  border-collapse: collapse;
+  text-align: center;
+  align-items: center;
+  width: 1000px;
+  margin: auto;
+}
+
+th ,td{
+  border-bottom: 1px solid gray;
+  color: gray;
+  padding: 2px;
+  margin: auto;
+}
+
+.filter-container{
+  margin-top: 25px;
+}
+
+#Active{
+  background-color: rgb(190, 252, 223);
+  font-size: medium;
+  color: darkgreen;
+  padding: 1px 8px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+#Inactive{
+  background-color: rgb(248, 204, 204);
+  font-size: medium;
+  color: red;
+  padding: 1px 8px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+#Draft{
+  background-color: rgb(250, 237, 193);
+  font-size: medium;
+  color: rgb(135, 112, 30) ;
+  padding: 1px 8px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+#CustomerData{
+  background-color: rgb(218, 253, 255);
+  color: rgb(10, 133, 182) ;
+  font-size: medium;
+  padding: 2px 8px;
+  margin: 2px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+#Admin{
+  background-color: rgb(206, 211, 248);
+  color: rgb(20, 69, 174) ;
+  font-size: medium;
+  padding: 2px 8px;
+  margin: 2px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+i{
+  justify-items: right;
+  justify-content: right;
+  margin: 3px;
+}
+
+img{
+  margin: 3px;
+}
